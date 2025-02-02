@@ -11,6 +11,7 @@ The following models were used for training, and their performance metrics are r
 | Model                 | Trainer  | Epochs | Val Accuracy | Val Precision | Val Recall | Test Accuracy | Test Precision | Test Recall |
 |-----------------------|----------|--------|--------------|--------------|------------|--------------|--------------|------------|
 | Xception             | Monya    | 10     | 44.98%       | -            | -          | -            | -            | -          |
+|                      |     | 20     | 48.44%       | -            | -          | -            | -            | -          |
 | MobileNet_V2        | Advika   | 10     | 64.04%       | 0.64         | 0.64       | -            | -            | -          |
 |                      |          | 15     | 73.20%       | 0.74         | 0.73       | -            | -            | -          |
 |                      |          | 20     | 68.84%       | 0.69         | 0.69       | 62.57%       | 0.63         | 0.63       |
