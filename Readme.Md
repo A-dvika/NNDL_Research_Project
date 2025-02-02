@@ -23,7 +23,7 @@ The following models were used for training, and their performance metrics are r
 | ShuffleNet           |Manasvi  | 10     |        |          |        |        |          |        |
 | VGG16               | Ayushi   | 15     | 32.63%       | -            | -          | 33.63%       | -            | -          |
 | VGG19               | Ayushi   | 15     | 29.79%       | -            | -          | 30.44%       | -            | -          |
-| InceptionV3         |          | -      | -            | -            | -          | -            | -            | -          |
+| InceptionV3         | Manasvi         | -      | -            | -            | -          | -            | -            | -          |
 | EfficientNetV2-B0   | Ayushi   | 15     | 25.13%       | -            | -          | 24.71%       | -            | -          |
 | ConvNeXt           | -        | -      | -            | -            | -          | -            | -            | -          |
 
