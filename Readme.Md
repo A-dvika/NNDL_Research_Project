@@ -20,10 +20,10 @@ The following models were used for training, and their performance metrics are r
 |                      |          | 20     | 61.67%       | 0.61         | 0.62       | 61.44%       | 0.60         | 0.61       |
 | SqueezeNet1_1       | Advika        | 10     | 56.29%       | 0.57         | 0.56       | -            | -            | -          |
 |                      |          | 15     | 58.46%       | 0.58         | 0.58       | -            | -            | -          |
-|                      |          | 20     | 58.76%       | 0.61         | 0.59       | 57.70%       | 0.60         | 0.58       |
+| ShuffleNet           |Manasvi  | 10     |        |          |        |        |          |        |
 | VGG16               | Ayushi   | 15     | 32.63%       | -            | -          | 33.63%       | -            | -          |
 | VGG19               | Ayushi   | 15     | 29.79%       | -            | -          | 30.44%       | -            | -          |
-| InceptionV3         | mj       | -      | -            | -            | -          | -            | -            | -          |
+| InceptionV3         |          | -      | -            | -            | -          | -            | -            | -          |
 | EfficientNetV2-B0   | Ayushi   | 15     | 25.13%       | -            | -          | 24.71%       | -            | -          |
 | ConvNeXt           | -        | -      | -            | -            | -          | -            | -            | -          |
 
