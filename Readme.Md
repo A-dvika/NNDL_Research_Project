@@ -23,7 +23,9 @@ The following models were used for training, and their performance metrics are r
 | VGG16               | Ayushi   | 15     | 32.63%       | -            | -          | 33.63%       | -            | -          |
 | VGG19               | Ayushi   | 15     | 29.79%       | -            | -          | 30.44%       | -            | -          |
 | InceptionV3         | mj       | -      | -            | -            | -          | -            | -            | -          |
-| EfficientNetV2-B0   | Ayushi   | 15     | 25.13%       | -            | -          | 24.71%       | -            | -          |
+| EfficientNetV2-B0   | Ayushi   | 10     | 62.24%       | 0.63           | 0.62        |        | -            | -          |
+|    |    | 15     | 62.00%       | 0.62            | 0.62          |        | -            | -          |
+|    |    | 20     | 62.97%       | 0.63            | 0.63          | 62.54%       | 0.63            | 0.63          |
 | ConvNeXt           | -        | -      | -            | -            | -          | -            | -            | -          |
 
 ---
