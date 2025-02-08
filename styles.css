@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+video, canvas {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
